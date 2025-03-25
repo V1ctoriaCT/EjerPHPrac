@@ -1,6 +1,0 @@
-Nombre:Victoria
-Dirección:Los Fresnos
-Cantidad de Jamón y Queso:3
-Cantidad de Napolitana:2
-Cantidad de Muzzarella:1
---------------------------------------------------------
